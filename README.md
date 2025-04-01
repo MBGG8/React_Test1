@@ -26,5 +26,5 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 4. Inicia la aplicación:
 
    ```bash
-   npm start
+   npm run dev
    ```
